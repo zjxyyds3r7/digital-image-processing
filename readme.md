@@ -1,12 +1,12 @@
-# »ùÓÚqt opencvµÄÊý×ÖÍ¼Ïñ´¦Àí´ó×÷Òµ ×÷Õß:ÖÜ¾°öÎ vx:zjxyyds0307
-1. ¼¼Êõ: qt opencv
-2. ÔõÃ´ÔËÐÐ: °²×°qt °²×°opencv ÅäÖÃ
-3. ÓÃÍ¾:Êý×ÖÍ¼Ïñ´¦Àí´ó×÷Òµ(¼òÒ×)
-4. ÊµÏÖ¹¦ÄÜ:  
-   1. ·Å´óËõÐ¡
-   2. Æ½ÒÆ
-   3. Ðý×ª
-   4. ¶Ô³Æ
-   5. ´íÇÐ
-5. ½ØÍ¼:
-   ![½ØÍ¼](pic\\main.png)
+# åŸºäºŽqt opencvçš„æ•°å­—å›¾åƒå¤„ç†å¤§ä½œä¸š ä½œè€…:å‘¨æ™¯é‘« vx:zjxyyds0307
+1. æŠ€æœ¯: qt opencv
+2. æ€Žä¹ˆè¿è¡Œ: å®‰è£…qt å®‰è£…opencv é…ç½®
+3. ç”¨é€”:æ•°å­—å›¾åƒå¤„ç†å¤§ä½œä¸š(ç®€æ˜“)
+4. å®žçŽ°åŠŸèƒ½:  
+   1. æ”¾å¤§ç¼©å°
+   2. å¹³ç§»
+   3. æ—‹è½¬
+   4. å¯¹ç§°
+   5. é”™åˆ‡
+5. æˆªå›¾:
+   ![æˆªå›¾]([pic/main.png](https://github.com/zjxyyds3r7/digital-image-processing/blob/main/pic/main.png))
