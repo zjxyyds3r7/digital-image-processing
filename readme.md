@@ -9,4 +9,4 @@
    4. 对称
    5. 错切
 5. 截图 位于pic\\main:  
-   ![截图]([pic/main.png](https://github.com/zjxyyds3r7/digital-image-processing/blob/main/pic/main.png))
+   ![截图]([pic/main.png](pic/main.png))
